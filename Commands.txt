@@ -4,3 +4,7 @@ git pull
 git add -A // . 
 git commit -m ""
 git push
+
+<feature1>
+WAWAWA
+</feature1>
