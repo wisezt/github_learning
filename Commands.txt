@@ -1,6 +1,6 @@
 git clone
 git pull
 
-git add -A
-git commit -m
+git add -A // . 
+git commit -m ""
 git push
